@@ -14,5 +14,10 @@ This is how I worked it step by step
 9. Then I used a built-in function ‘iloc’ this help sort through the data and see where the data started exactly 
 10. After figuring it out I started to delete the columns
 11. Next I used the histogram function to describe each column and what they were doing
-12. Then I found the mean of each day of the dataset so i can plot them in a graph
-13. Afterwards I put the days in its own set so when comparing it would correspond with each other
+12. Then I found the mean of each day and put it in a dataframe variable 
+13. After, I put the colunms of each day in a seperate dataframe variable. 
+14. When I plot it the first time there were too many data points to see what was going on 
+15. So i used the 'iloc' function so I could skip some data points to get the full picture
+16. I only did that on the x axis so but not the y so it raised an error because both x and y are suppose to thace the same amount of data points in order to graph
+17. Next I changed the y axis and put it as the same amount as the as the x axis 
+18. Finally but graph plotted it points
