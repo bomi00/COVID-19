@@ -1,5 +1,5 @@
 # COVID-19
-This is a predictions of what would be the number of hospitalizations of cases if the number of confirmed cases(variable) are 42,000?
+This is a predictions of what would be the number of hospitalizations of cases if the number of confirmed cases are 42,000?
 
 This is how I worked it step by step 
 
