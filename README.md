@@ -1,5 +1,5 @@
 # COVID-19
-This is a predictions of the people who have recovered from COVID-19 by August 1, 2020
+This is a predictions of what would be the number of hospitalizations of cases if the number of confirmed cases(variable) are 42,000?
 
 This is how I worked it step by step 
 
