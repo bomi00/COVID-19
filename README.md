@@ -1,6 +1,8 @@
 # COVID-19
 This is a predictions of what would be the number of hospitalizations of cases if the number of confirmed cases are 42,000?
 
+This project was used for predicting the recovery cases based on the given data from Massachusetts 
+
 This is how I worked it step by step 
 
 1. First, I did research on covid-19. I research what is it, who and how people get affected. I also search for the statistics on it like the confirmed, death, and recovery rate. 
