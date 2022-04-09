@@ -1,5 +1,4 @@
 
-
 This is how I worked it step by step 
 
 1. First, I did research on covid-19. I research what is it, who and how people get affected. I also search for the statistics on it like the confirmed, death, and recovery rate. 
@@ -44,3 +43,5 @@ This is how I worked it step by step
 40. But what my graph showed was a lot of zeros so i needed to change that by clearing out all the ‘nan’ data because nan data isn’t really doing anything so why have it around
 clearing all the nan data 
 41. I once again ran the linear regression function and the graph that came out was better than the one before because it had a solid linear regression line going somewhere and it was displaying great predictions 
+
+
